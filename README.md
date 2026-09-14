@@ -1,2 +1,3 @@
-# nlp-network-intrusion-detection
-https://www.kaggle.com/code/srijabhupathiraju/ml-malware-project
+# NLP-Based Network Intrusion Detection
+Dataset: CSE-CIC-IDS2018 (https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv)
+URL : https://www.kaggle.com/code/srijabhupathiraju/ml-malware-project
